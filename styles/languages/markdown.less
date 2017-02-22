@@ -1,0 +1,44 @@
+.syntax--gfm {
+
+  // two or more spaces
+  .syntax--whitespaces {
+    // background: @background-color-warning;
+    //border-radius: 2px;
+    border-bottom:2px dotted @background-color-error;
+  }
+
+  // italics
+  .syntax--italic {
+    color:@variable;
+  }
+
+  // footnote references
+  .syntax--entity {
+    font-size: 80%;
+    vertical-align: super;
+    color: @variable;
+  }
+
+  // math
+  .syntax--math {
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 95%;
+    color: @math;
+  }
+
+  // code
+  .syntax--java, .syntax--other {
+    font-family: monospace;
+    vertical-align: initial;
+  }
+
+  //biblographic references
+  .syntax--string {
+    font-family: monospace;
+    font-size: 80%;
+    color: @constant;
+  }
+
+
+}

@@ -1,13 +1,13 @@
 {
-  "name": "minimal-syntax",
+  "name": "pandoc-minimal-syntax",
   "author": {
-    "name": "David van Gemeren",
-    "email": "david@burodepeper.nl"
+    "name": "Augusto Andraus",
+    "email": "andraus@gmail.com"
   },
   "theme": "syntax",
   "main": "./lib/main.coffee",
-  "version": "0.21.0",
-  "description": "Light syntax theme, high contrast/low brightness, three primary colors, easy on the eyes",
+  "version": "0.1.0",
+  "description": "Light syntax theme, focused on pandoc markdown. Forked from minimal-syntax",
   "keywords": [
     "syntax",
     "theme",
@@ -29,7 +29,7 @@
     "mysql",
     "markdown"
   ],
-  "repository": "https://github.com/burodepeper/minimal-syntax",
+  "repository": "https://github.com/andraus/pandoc-minimal-syntax",
   "private": true,
   "license": "MIT",
   "engines": {
