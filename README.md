@@ -1,3 +1,7 @@
+# Pandoc Flavoured Markdown
+
+This syntax theme is a fork from minimal-syntax. In order to fully use it with pandoc flavoured markdown, this syntax must be used together with package [language-alt-pfm](https://atom.io/packages/language-alt-pfm). 
+
 # Minimal
 
 I've attempted to consistently limit myself to three primary colors to style similar semantic elements across languages, while remaining easy on the eyes.
