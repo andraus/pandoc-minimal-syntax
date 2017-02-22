@@ -6,7 +6,7 @@
   },
   "theme": "syntax",
   "main": "./lib/main.coffee",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Light syntax theme, focused on pandoc markdown. Forked from minimal-syntax",
   "keywords": [
     "syntax",
